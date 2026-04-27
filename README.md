@@ -43,7 +43,7 @@ Graduando em Análise e Desenvolvimento de Sistemas pela UNICID, concentro meus 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM1 - A Corrida do Prompt** | Introdução prática aos fundamentos da Engenharia de Prompt. Foco na criação de instruções estruturadas para otimizar a qualidade das respostas de LLMs (Large Language Models), explorando diferentes personas e contextos.. | [Ver Projeto](./projeto-ia-churn/) |
+| **SM1 - A Corrida do Prompt** | Introdução prática aos fundamentos da Engenharia de Prompt. Foco na criação de instruções estruturadas para otimizar a qualidade das respostas de LLMs (Large Language Models), explorando diferentes personas e contextos.. | [Ver Projeto](https://github.com/Naum-Gomes/Projeto_Cria-o_de_imagem_de_IA/tree/main/Projetos) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
