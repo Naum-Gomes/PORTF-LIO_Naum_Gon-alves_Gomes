@@ -47,11 +47,11 @@ Graduando em Análise e Desenvolvimento de Sistemas pela UNICID, concentro meus 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM2 - Laboratório de Classificação Visual** | Desenvolvimento e teste de modelos de visão computacional. Atividade focada na classificação de imagens, análise de padrões visuais e aplicação de tags para organização automatizada de ativos digitais. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/blob/bdbe594717b8e6615c01f928e615123b18f94b7c/projeto_laboratorio_de_classificacao_visual.pdf) |
+| **SM2 - Laboratório de Classificação Visual** | Desenvolvimento e teste de modelos de visão computacional. Atividade focada na classificação de imagens, análise de padrões visuais e aplicação de tags para organização automatizada de ativos digitais. | [Ver Projeto]() |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparação técnica entre diferentes modelos de IA (como GPT, Claude e Gemini) utilizando técnicas avançadas de estruturação de dados com XML. Foco em avaliar consistência, latência e precisão em tarefas complexas. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/blob/c5c9a753749ace711b270021747fea6831fe9f66/projeto_batalha_de_modelos_e_engenharia_de_prompts.pdf) |
+| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparação técnica entre diferentes modelos de IA (como GPT, Claude e Gemini) utilizando técnicas avançadas de estruturação de dados com XML. Foco em avaliar consistência, latência e precisão em tarefas complexas. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/6fb743c39de0616dd4e39c5f318e9ec6af50166b/Projeto-criacao-de-imagem) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
