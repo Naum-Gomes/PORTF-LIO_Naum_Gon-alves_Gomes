@@ -51,7 +51,7 @@ Graduando em Análise e Desenvolvimento de Sistemas pela UNICID, concentro meus 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparação técnica entre diferentes modelos de IA (como GPT, Claude e Gemini) utilizando técnicas avançadas de estruturação de dados com XML. Foco em avaliar consistência, latência e precisão em tarefas complexas. | [Ver Projeto](./projeto-ia-churn/) |
+| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparação técnica entre diferentes modelos de IA (como GPT, Claude e Gemini) utilizando técnicas avançadas de estruturação de dados com XML. Foco em avaliar consistência, latência e precisão em tarefas complexas. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/blob/c5c9a753749ace711b270021747fea6831fe9f66/projeto_batalha_de_modelos_e_engenharia_de_prompts.pdf) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
