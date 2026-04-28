@@ -63,7 +63,7 @@ Graduando em Análise e Desenvolvimento de Sistemas pela UNICID, concentro meus 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM6 - Criação de Musica por IA** | Exploração de modelos generativos de áudio para a criação de composições autorais e trilhas sonoras. A atividade abordou a estruturação de prompts multimodais, o controle de parâmetros rítmicos e melódicos via IA e a análise do impacto dessas tecnologias na indústria criativa e no desenvolvimento de interfaces sonoras. | [Ver Projeto](./projeto-ia-churn/) |
+| **SM6 - Criação de Musica por IA** | Exploração de modelos generativos de áudio para a criação de composições autorais e trilhas sonoras. A atividade abordou a estruturação de prompts multimodais, o controle de parâmetros rítmicos e melódicos via IA e a análise do impacto dessas tecnologias na indústria criativa e no desenvolvimento de interfaces sonoras. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/5b7916bfefd8a4078db2ab22c9325828a6e1c843/projeto_Suno) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
