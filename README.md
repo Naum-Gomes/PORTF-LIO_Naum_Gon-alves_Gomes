@@ -67,7 +67,7 @@ Graduando em Análise e Desenvolvimento de Sistemas pela UNICID, concentro meus 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM7 - Engenharia de Software e IA com Bubble.io** | Desenvolvimento de uma aplicação web completa utilizando a plataforma no-code Bubble.io. Integração de APIs de Inteligência Artificial para criar funcionalidades inteligentes, unindo princípios de engenharia de software com a agilidade do desenvolvimento visual. | [Ver Projeto](./projeto-ia-churn/) |
+| **SM7 - Engenharia de Software e IA com Bubble.io** | Desenvolvimento de uma aplicação web completa utilizando a plataforma no-code Bubble.io. Integração de APIs de Inteligência Artificial para criar funcionalidades inteligentes, unindo princípios de engenharia de software com a agilidade do desenvolvimento visual. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/83895b27b85a961214e6c271f9ea5da407ff3853/projeto_engenharia%20_de_softwar_e_IA_com_bubbleio) |
 
 ---
  
