@@ -55,7 +55,7 @@ Graduando em Análise e Desenvolvimento de Sistemas pela UNICID, concentro meus 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM4 - Engenharia Reversa** | Exercício de desconstrução de saídas de IA para identificar os prompts ou parâmetros originais. Foco em entender a lógica por trás de resultados específicos e aprimorar a capacidade de replicação de padrões de alta qualidade. | [Ver Projeto](./projeto-ia-churn/) |
+| **SM4 - Engenharia Reversa** | Exercício de desconstrução de saídas de IA para identificar os prompts ou parâmetros originais. Foco em entender a lógica por trás de resultados específicos e aprimorar a capacidade de replicação de padrões de alta qualidade. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/356243950e0ec6bb0a7d5b39c4a50945273fc51e/projeto_engenharia_reversa) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
