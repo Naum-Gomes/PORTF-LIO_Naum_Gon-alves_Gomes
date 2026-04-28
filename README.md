@@ -59,7 +59,7 @@ Graduando em Análise e Desenvolvimento de Sistemas pela UNICID, concentro meus 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Transformação de um conceito ou "clone" funcional em um MVP (Minimum Viable Product) robusto. Aplicação de metodologias ágeis para priorizar funcionalidades críticas e validar a viabilidade de mercado de uma solução baseada em IA. | [Ver Projeto](./projeto-ia-churn/) |
+| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Transformação de um conceito ou "clone" funcional em um MVP (Minimum Viable Product) robusto. Aplicação de metodologias ágeis para priorizar funcionalidades críticas e validar a viabilidade de mercado de uma solução baseada em IA. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/cc9795c132971968e440286348519f8bed1772b9/projeto_produto_minimo_viavel) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
