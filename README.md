@@ -47,7 +47,7 @@ Graduando em Análise e Desenvolvimento de Sistemas pela UNICID, concentro meus 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM2 - Laboratório de Classificação Visual** | Desenvolvimento e teste de modelos de visão computacional. Atividade focada na classificação de imagens, análise de padrões visuais e aplicação de tags para organização automatizada de ativos digitais. | [Ver Projeto]() |
+| **SM2 - Laboratório de Classificação Visual** | Desenvolvimento e teste de modelos de visão computacional. Atividade focada na classificação de imagens, análise de padrões visuais e aplicação de tags para organização automatizada de ativos digitais. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/356243950e0ec6bb0a7d5b39c4a50945273fc51e/projeto_laboratorio_de_classificacao_visual) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
