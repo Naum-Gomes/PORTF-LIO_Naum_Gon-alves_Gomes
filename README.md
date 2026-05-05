@@ -71,7 +71,7 @@ Graduando em Análise e Desenvolvimento de Sistemas pela UNICID, concentro meus 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM9 - Engenharia de Software e IA com Bubble.io** | Desenvolvimento de uma aplicação web completa utilizando a plataforma no-code Bubble.io. Integração de APIs de Inteligência Artificial para criar funcionalidades inteligentes, unindo princípios de engenharia de software com a agilidade do desenvolvimento visual. | [Ver Projeto](https://github.com/Naum-Gomes/projeto-criacao-video-aula) |
+| **SM9 - Video Conferencia Fitness** | Aplicativo Android de videoconferência para treinos personalizados, integrando Jitsi Meet com cronômetro e contador de repetições em tempo real. | [Ver Projeto](https://github.com/Naum-Gomes/projeto-criacao-video-aula) |
 
 ---
  
