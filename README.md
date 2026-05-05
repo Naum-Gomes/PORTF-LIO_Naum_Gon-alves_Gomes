@@ -43,40 +43,13 @@ Graduando em Análise e Desenvolvimento de Sistemas pela UNICID, concentro meus 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM1 - A Corrida do Prompt** | Introdução prática aos fundamentos da Engenharia de Prompt. Foco na criação de instruções estruturadas para otimizar a qualidade das respostas de LLMs (Large Language Models), explorando diferentes personas e contextos.. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/6fb743c39de0616dd4e39c5f318e9ec6af50166b/Projeto-criacao-de-imagem) |
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **SM2 - Laboratório de Classificação Visual** | Desenvolvimento e teste de modelos de visão computacional. Atividade focada na classificação de imagens, análise de padrões visuais e aplicação de tags para organização automatizada de ativos digitais. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/356243950e0ec6bb0a7d5b39c4a50945273fc51e/projeto_laboratorio_de_classificacao_visual) |
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparação técnica entre diferentes modelos de IA (como GPT, Claude e Gemini) utilizando técnicas avançadas de estruturação de dados com XML. Foco em avaliar consistência, latência e precisão em tarefas complexas. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/6fb743c39de0616dd4e39c5f318e9ec6af50166b/Projeto-criacao-de-imagem) |
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **SM4 - Engenharia Reversa** | Exercício de desconstrução de saídas de IA para identificar os prompts ou parâmetros originais. Foco em entender a lógica por trás de resultados específicos e aprimorar a capacidade de replicação de padrões de alta qualidade. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/356243950e0ec6bb0a7d5b39c4a50945273fc51e/projeto_engenharia_reversa) |
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Transformação de um conceito ou "clone" funcional em um MVP (Minimum Viable Product) robusto. Aplicação de metodologias ágeis para priorizar funcionalidades críticas e validar a viabilidade de mercado de uma solução baseada em IA. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/cc9795c132971968e440286348519f8bed1772b9/projeto_produto_minimo_viavel) |
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **SM6 - Criação de Musica por IA** | Exploração de modelos generativos de áudio para a criação de composições autorais e trilhas sonoras. A atividade abordou a estruturação de prompts multimodais, o controle de parâmetros rítmicos e melódicos via IA e a análise do impacto dessas tecnologias na indústria criativa e no desenvolvimento de interfaces sonoras. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/5b7916bfefd8a4078db2ab22c9325828a6e1c843/projeto_Suno) |
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **SM7 - Engenharia de Software e IA com Bubble.io** | Desenvolvimento de uma aplicação web completa utilizando a plataforma no-code Bubble.io. Integração de APIs de Inteligência Artificial para criar funcionalidades inteligentes, unindo princípios de engenharia de software com a agilidade do desenvolvimento visual. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/83895b27b85a961214e6c271f9ea5da407ff3853/projeto_engenharia%20_de_softwar_e_IA_com_bubbleio) |
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **SM9 - Video Conferencia Fitness** | Aplicativo Android de videoconferência para treinos personalizados, integrando Jitsi Meet com cronômetro e contador de repetições em tempo real. | [Ver Projeto](https://github.com/Naum-Gomes/projeto-criacao-video-aula) |
+| **SM1 - A Corrida do Prompt** | Introdução prática aos fundamentos da Engenharia de Prompt. Foco na criação de instruções estruturadas para otimizar a qualidade das respostas de LLMs (Large Language Models), explorando diferentes personas e contextos.. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/6fb743c39de0616dd4e39c5f318e9ec6af50166b/Projeto-criacao-de-imagem) 
+ **SM2 - Laboratório de Classificação Visual** | Desenvolvimento e teste de modelos de visão computacional. Atividade focada na classificação de imagens, análise de padrões visuais e aplicação de tags para organização automatizada de ativos digitais. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/356243950e0ec6bb0a7d5b39c4a50945273fc51e/projeto_laboratorio_de_classificacao_visual) 
+ **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparação técnica entre diferentes modelos de IA (como GPT, Claude e Gemini) utilizando técnicas avançadas de estruturação de dados com XML. Foco em avaliar consistência, latência e precisão em tarefas complexas. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/6fb743c39de0616dd4e39c5f318e9ec6af50166b/Projeto-criacao-de-imagem)
+ **SM4 - Engenharia Reversa** | Exercício de desconstrução de saídas de IA para identificar os prompts ou parâmetros originais. Foco em entender a lógica por trás de resultados específicos e aprimorar a capacidade de replicação de padrões de alta qualidade. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/356243950e0ec6bb0a7d5b39c4a50945273fc51e/projeto_engenharia_reversa)
+ **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Transformação de um conceito ou "clone" funcional em um MVP (Minimum Viable Product) robusto. Aplicação de metodologias ágeis para priorizar funcionalidades críticas e validar a viabilidade de mercado de uma solução baseada em IA. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/cc9795c132971968e440286348519f8bed1772b9/projeto_produto_minimo_viavel)
+ **SM6 - Criação de Musica por IA** | Exploração de modelos generativos de áudio para a criação de composições autorais e trilhas sonoras. A atividade abordou a estruturação de prompts multimodais, o controle de parâmetros rítmicos e melódicos via IA e a análise do impacto dessas tecnologias na indústria criativa e no desenvolvimento de interfaces sonoras. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/5b7916bfefd8a4078db2ab22c9325828a6e1c843/projeto_Suno)
+  **SM7 - Engenharia de Software e IA com Bubble.io** | Desenvolvimento de uma aplicação web completa utilizando a plataforma no-code Bubble.io. Integração de APIs de Inteligência Artificial para criar funcionalidades inteligentes, unindo princípios de engenharia de software com a agilidade do desenvolvimento visual. | [Ver Projeto](https://github.com/Naum-Gomes/PORTF-LIO_Naum_Gon-alves_Gomes/tree/83895b27b85a961214e6c271f9ea5da407ff3853/projeto_engenharia%20_de_softwar_e_IA_com_bubbleio)
+  **SM9 - Video Conferencia Fitness** | Aplicativo Android de videoconferência para treinos personalizados, integrando Jitsi Meet com cronômetro e contador de repetições em tempo real. | [Ver Projeto](https://github.com/Naum-Gomes/projeto-criacao-video-aula)|
 
 ---
- 
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
